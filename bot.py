@@ -19,7 +19,7 @@ from database import (
 )
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = 123456789  # ЗАМЕНИТЬ НА СВОЙ ID!
+ADMIN_ID = 6323094690  # ЗАМЕНИТЬ НА СВОЙ ID!
 
 ENTRY_PRICE = 10      # Цена 1 билета
 COMMISSION_PCT = 10   # Комиссия сервиса (10%)
