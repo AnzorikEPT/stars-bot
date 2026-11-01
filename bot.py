@@ -18,7 +18,7 @@ from database import (
     get_goal_stars, set_goal_stars
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = 9102083942:AAH2B_TgmS-9pO5_oMqtjJNUoWZuA6nYa3s
 ADMIN_ID = 6323094690  # ЗАМЕНИТЬ НА СВОЙ ID!
 
 ENTRY_PRICE = 10      # Цена 1 билета
